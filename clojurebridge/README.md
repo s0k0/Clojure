@@ -1,3 +1,3 @@
 # clojurebridge
 
-A project using Quil in which ... well, that part is up to you.
+A project using Quil in which you can draw coloured circles and create patterns.
