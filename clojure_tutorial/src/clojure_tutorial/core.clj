@@ -5,4 +5,4 @@
   [x]
   (println x "Hello, World!"))
 
-(foo 3)                                      ;
+(foo 3)
